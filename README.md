@@ -1,6 +1,12 @@
 # Go-token
 Generate crypto-random strings (i.e. tokens) of any length.
 
+## Installation
+
+```bash
+$ go install github.com/moeenn/go-token@latest
+```
+
 
 ## Compile from source
 
@@ -8,6 +14,7 @@ Generate crypto-random strings (i.e. tokens) of any length.
 # build from source
 $ go build .
 ```
+
 
 ## Usage
 
